@@ -1,5 +1,9 @@
 # dosemu.c — a throwaway DOS machine for unpacking Disk eXPress images
 
+> [!NOTE]
+> This was all originally undocumented. I asked Claude to heavily comment the source for my own
+> personal interest and as a learning experience.
+
 `DE584631.EXE` and `DE584632.EXE` only know how to do one thing: write a floppy
 image to a real diskette drive. There is no "extract to folder" mode. To get the
 contents without a 1998 PC and two blank floppies, you need something that looks
