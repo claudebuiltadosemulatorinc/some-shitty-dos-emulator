@@ -1,0 +1,6 @@
+   Title: Yamaha OPL3SA2 Windows 95 Drivers
+ Version: A05
+      OS: Windows 95
+Language: International
+    Disk: 2
+ Created: 01/19/98 18:23
