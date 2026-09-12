@@ -1,3 +1,7 @@
+> [!NOTE]
+> This was all originally undocumented. I asked Claude to heavily comment this for my own
+> personal interest and as a learning experience.
+
 # DD58463.exe — identification and extraction
 
 ## Short answer
